@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-14T16:45:14.075Z",
+  "title": "Design System: Hesed Counselling Services",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Deep Plum",
+        "canonical": "#5a375b",
+        "tonalRamp": [
+          "oklch(15.00% 0.07382 325.90)",
+          "oklch(26.43% 0.07382 325.90)",
+          "oklch(37.86% 0.07382 325.90)",
+          "oklch(49.29% 0.07382 325.90)",
+          "oklch(60.71% 0.07382 325.90)",
+          "oklch(72.14% 0.07382 325.90)",
+          "oklch(83.57% 0.07382 325.90)",
+          "oklch(95.00% 0.07382 325.90)"
+        ]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Deep Plum Hover",
+        "canonical": "#482b49",
+        "tonalRamp": [
+          "oklch(15.00% 0.06374 325.71)",
+          "oklch(26.43% 0.06374 325.71)",
+          "oklch(37.86% 0.06374 325.71)",
+          "oklch(49.29% 0.06374 325.71)",
+          "oklch(60.71% 0.06374 325.71)",
+          "oklch(72.14% 0.06374 325.71)",
+          "oklch(83.57% 0.06374 325.71)",
+          "oklch(95.00% 0.06374 325.71)"
+        ]
+      },
+      "secondary": {
+        "role": "secondary",
+        "displayName": "Muted Plum",
+        "canonical": "#705271",
+        "tonalRamp": [
+          "oklch(15.00% 0.06115 325.42)",
+          "oklch(26.43% 0.06115 325.42)",
+          "oklch(37.86% 0.06115 325.42)",
+          "oklch(49.29% 0.06115 325.42)",
+          "oklch(60.71% 0.06115 325.42)",
+          "oklch(72.14% 0.06115 325.42)",
+          "oklch(83.57% 0.06115 325.42)",
+          "oklch(95.00% 0.06115 325.42)"
+        ]
+      },
+      "warm-paper": {
+        "role": "neutral",
+        "displayName": "Warm Paper",
+        "canonical": "#fcfafc",
+        "tonalRamp": [
+          "oklch(15.00% 0.00337 325.60)",
+          "oklch(26.43% 0.00337 325.60)",
+          "oklch(37.86% 0.00337 325.60)",
+          "oklch(49.29% 0.00337 325.60)",
+          "oklch(60.71% 0.00337 325.60)",
+          "oklch(72.14% 0.00337 325.60)",
+          "oklch(83.57% 0.00337 325.60)",
+          "oklch(95.00% 0.00337 325.60)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "White Surface",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95.00% 0.00000 89.88)"
+        ]
+      },
+      "soft-lavender": {
+        "role": "neutral",
+        "displayName": "Soft Lavender",
+        "canonical": "#f1ebf2",
+        "tonalRamp": [
+          "oklch(15.00% 0.01127 321.32)",
+          "oklch(26.43% 0.01127 321.32)",
+          "oklch(37.86% 0.01127 321.32)",
+          "oklch(49.29% 0.01127 321.32)",
+          "oklch(60.71% 0.01127 321.32)",
+          "oklch(72.14% 0.01127 321.32)",
+          "oklch(83.57% 0.01127 321.32)",
+          "oklch(95.00% 0.01127 321.32)"
+        ]
+      },
+      "charcoal-plum": {
+        "role": "neutral",
+        "displayName": "Charcoal Plum",
+        "canonical": "#352d36",
+        "tonalRamp": [
+          "oklch(15.00% 0.01937 322.51)",
+          "oklch(26.43% 0.01937 322.51)",
+          "oklch(37.86% 0.01937 322.51)",
+          "oklch(49.29% 0.01937 322.51)",
+          "oklch(60.71% 0.01937 322.51)",
+          "oklch(72.14% 0.01937 322.51)",
+          "oklch(83.57% 0.01937 322.51)",
+          "oklch(95.00% 0.01937 322.51)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Text",
+        "canonical": "#6b606d",
+        "tonalRamp": [
+          "oklch(15.00% 0.02439 321.04)",
+          "oklch(26.43% 0.02439 321.04)",
+          "oklch(37.86% 0.02439 321.04)",
+          "oklch(49.29% 0.02439 321.04)",
+          "oklch(60.71% 0.02439 321.04)",
+          "oklch(72.14% 0.02439 321.04)",
+          "oklch(83.57% 0.02439 321.04)",
+          "oklch(95.00% 0.02439 321.04)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Pale Plum Line",
+        "canonical": "#e3dbe4",
+        "tonalRamp": [
+          "oklch(15.00% 0.01485 322.34)",
+          "oklch(26.43% 0.01485 322.34)",
+          "oklch(37.86% 0.01485 322.34)",
+          "oklch(49.29% 0.01485 322.34)",
+          "oklch(60.71% 0.01485 322.34)",
+          "oklch(72.14% 0.01485 322.34)",
+          "oklch(83.57% 0.01485 322.34)",
+          "oklch(95.00% 0.01485 322.34)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Base heading scale; hero has responsive overrides."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "General reading text."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Form labels."
+      }
+    },
+    "shadows": [
+      {
+        "name": "welcome-note",
+        "value": "0 7px 26px #39253910",
+        "purpose": "Floating welcome note."
+      },
+      {
+        "name": "privacy-notice",
+        "value": "0 4px 30px #301f3015",
+        "purpose": "Floating disclosure."
+      },
+      {
+        "name": "button-hover",
+        "value": "0 5px 18px #4b304c18",
+        "purpose": "Primary action hover."
+      }
+    ],
+    "motion": [
+      {
+        "name": "interaction",
+        "value": "0.2s ease",
+        "purpose": "Button and card hover; disabled under reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "640px"
+      },
+      {
+        "name": "navigation",
+        "value": "900px"
+      },
+      {
+        "name": "compact-navigation",
+        "value": "1100px"
+      },
+      {
+        "name": "tablet-wide",
+        "value": "1150px"
+      },
+      {
+        "name": "wide",
+        "value": "1450px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Primary session-request action.",
+      "html": "<button class=\"ds-control ds-primary\">Book a session</button>",
+      "css": ".ds-primary{display:inline-flex;align-items:center;justify-content:center;padding:15px 25px;border:1px solid transparent;border-radius:8px;font:500 .86rem/1.5 var(--sans,Geist,Arial,sans-serif);text-decoration:none;transition:background .2s,transform .2s,box-shadow .2s;background:var(--brand-plum,#5a375b);color:#fbfafb}.ds-primary:hover:not(:disabled){background:#482b49;color:#fff;transform:translateY(-2px);box-shadow:0 5px 18px #4b304c18}.ds-primary:disabled{opacity:.5;cursor:not-allowed}.ds-control:focus-visible{outline:3px solid var(--brand-plum,#5a375b);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-control{transition:none!important;transform:none!important}}"
+    },
+    {
+      "name": "Outline Button",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Secondary action on a light surface.",
+      "html": "<button class=\"ds-control ds-outline\">What to expect</button>",
+      "css": ".ds-outline{display:inline-flex;align-items:center;justify-content:center;padding:15px 25px;border:1px solid transparent;border-radius:8px;font:500 .86rem/1.5 var(--sans,Geist,Arial,sans-serif);text-decoration:none;transition:background .2s,transform .2s,box-shadow .2s;background:transparent;color:var(--ink,#352d36);border-color:#af9fb0}.ds-outline:hover:not(:disabled){background:#eee9ef;transform:translateY(-2px)}.ds-outline:disabled{opacity:.5;cursor:not-allowed}.ds-control:focus-visible{outline:3px solid var(--brand-plum,#5a375b);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-control{transition:none!important;transform:none!important}}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Labelled practical booking detail.",
+      "html": "<label class=\"ds-field\">Your name<input class=\"ds-control ds-input\" autocomplete=\"name\" placeholder=\"Your name\"></label>",
+      "css": ".ds-field{display:flex;flex-direction:column;gap:8px;font:500 .8rem var(--sans,Geist,Arial,sans-serif);color:var(--ink,#352d36)}.ds-input{padding:12px 13px;border:1px solid #d4c4d5;border-radius:7px;background:#fdfdfd;color:var(--ink,#352d36);font:.86rem/1.6 var(--sans,Geist,Arial,sans-serif);min-width:0}.ds-input::placeholder{color:#735f74;opacity:1}.ds-input:focus{outline:2px solid var(--brand-plum,#5a375b);outline-offset:2px}.ds-control:focus-visible{outline:3px solid var(--brand-plum,#5a375b);outline-offset:4px}"
+    },
+    {
+      "name": "Service Card",
+      "kind": "card",
+      "refersTo": "service-card",
+      "description": "Quiet service introduction with linked action.",
+      "html": "<a class=\"ds-control ds-card\" href=\"/services/#individual\"><span class=\"ds-number\">01</span><h3 class=\"ds-title\">Individual therapy</h3><p class=\"ds-copy\">A little space, just for you.</p><span class=\"ds-link\">Explore support →</span></a>",
+      "css": ".ds-card{display:flex;flex-direction:column;min-height:257px;max-width:260px;padding:26px 22px 24px;background:var(--paper,#fff);color:var(--ink,#352d36);border:1px solid #e1d5e1;border-radius:12px;text-decoration:none;font-family:var(--sans,Geist,Arial,sans-serif);transition:transform .2s,background .2s}.ds-card:hover{background:#efe7ef;transform:translateY(-5px)}.ds-number{font-size:.62rem;color:#715772;margin-bottom:28px}.ds-title{font-size:1.3rem;font-weight:500;letter-spacing:-.04em;margin:0 0 12px}.ds-copy{font-size:.76rem;line-height:1.7;color:var(--muted,#6b606d);flex:1;margin:0 0 28px}.ds-link{font-size:.7rem}.ds-control:focus-visible{outline:3px solid var(--brand-plum,#5a375b);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-control{transition:none!important;transform:none!important}}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "description": "Understated desktop links with active-route marker.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Example navigation\"><a class=\"ds-control ds-nav-link\" href=\"/about/\" aria-current=\"page\">About</a><a class=\"ds-control ds-nav-link\" href=\"/services/\">How I can help</a><a class=\"ds-control ds-nav-link\" href=\"/contact/\">Contact</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;flex-wrap:wrap;gap:29px;padding:12px;font-family:var(--sans,Geist,Arial,sans-serif)}.ds-nav-link{position:relative;font-size:.78rem;color:#584e58;text-decoration:none}.ds-nav-link:hover{color:var(--brand-plum,#5a375b)}.ds-nav-link[aria-current=page]:after{content:'';position:absolute;bottom:-9px;left:0;width:100%;height:1px;background:#6a476b}.ds-control:focus-visible{outline:3px solid var(--brand-plum,#5a375b);outline-offset:4px}"
+    },
+    {
+      "name": "Informational Tag",
+      "kind": "chip",
+      "refersTo": "pill",
+      "description": "Non-interactive small status or topic label.",
+      "html": "<span class=\"ds-pill\">Fees on request</span>",
+      "css": ".ds-pill{display:inline-block;padding:4px 11px;background:#ebe0eb;border-radius:20px;font:.66rem/1.7 var(--sans,Geist,Arial,sans-serif);color:#6b496c}"
+    },
+    {
+      "name": "Contact Strip",
+      "kind": "custom",
+      "description": "High-contrast contact links on the brand colour.",
+      "html": "<div class=\"ds-contact\"><a class=\"ds-contact-link\" href=\"tel:+254705605821\">+254 705 605 821</a><a class=\"ds-contact-link\" href=\"mailto:info.hesedcounselling@gmail.com\">info.hesedcounselling@gmail.com</a></div>",
+      "css": ".ds-contact{display:flex;flex-wrap:wrap;align-items:center;gap:8px 24px;padding:12px 20px;background:var(--brand-plum,#5a375b);color:white;font:.75rem/1.6 var(--sans,Geist,Arial,sans-serif)}.ds-contact-link{display:inline-flex;align-items:center;min-height:24px;color:#fff;text-decoration:none;overflow-wrap:anywhere}.ds-contact-link:hover{text-decoration:underline}.ds-contact-link:focus-visible{outline:2px solid #fff;outline-offset:4px;border-radius:2px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Welcoming Room",
+    "overview": "The Welcoming Room is warm, calm and professional: generous space, gentle curves and reassuring language make the interface feel approachable. Deep Plum anchors actions and contact information; pale surfaces keep longer sections quiet.\n\nComponents are gentle and clear. Depth comes mainly from tonal layers and fine borders, with ambient shadows reserved for floating elements and hover states. This records the existing implementation, not a redesign or an accessibility certification.",
+    "keyCharacteristics": [
+      "Logo-led plum identity with Geist typography.",
+      "Spacious sections and rounded, lightly bordered components.",
+      "Arched image and brand panels as recurring signatures.",
+      "Subtle layers rather than heavy elevation."
+    ],
+    "rules": [
+      {
+        "name": "The Logo Leads Rule",
+        "body": "Use plum for the primary identity and actions; do not reintroduce a green-led theme.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Family Rule",
+        "body": "Use Geist across display, body and controls, with Arial and sans-serif fallbacks.",
+        "section": "typography"
+      },
+      {
+        "name": "The Subtle Layers Rule",
+        "body": "Keep cards flat at rest; reserve ambient shadows for floating surfaces and hover feedback.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve the supplied logo, plum identity and Geist typography.",
+      "Do retain clear keyboard focus and reduced-motion behaviour.",
+      "Do keep contact information readable and able to wrap on narrow screens."
+    ],
+    "donts": [
+      "Don't restore green as the main theme colour.",
+      "Don't present placeholder photography as the actual therapist or office.",
+      "Don't treat recorded small text sizes as proof of accessibility compliance."
+    ]
+  }
+}
